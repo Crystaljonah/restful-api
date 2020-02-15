@@ -1,7 +1,7 @@
 const orders = [
   {
     product_id: 7846384,
-    quantity: '3',
+    qualiity: '3',
     title: 'Iphone',
     description: '11 PRO',
     manufacturer: 'Apple',
